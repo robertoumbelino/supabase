@@ -33,6 +33,7 @@ This project is a POC to verify Supabase database functionalities like **(On dem
 How to use this project:
 
 - First you need to have a account in [Supabase](https://app.supabase.io/)
+- Create a "devs" table in Supabase with another columns (Create records too)
 - Clone this repository
 - Execute yarn or npm install
 - Create .env file and configure the variables
