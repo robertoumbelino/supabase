@@ -43,6 +43,8 @@ Envs:
 - SUPABASE_KEY=yourprojectkey
 - SUPABASE_REALTIME=wss://[URL KEY].supabase.co/realtime/v1
 
+- Execute yarn dev or npm run dev (It's show all devs and will listening "devs" events like INSERT, UPDATE and DELETE)
+
 This infos you can get in Supabase settings.
 
 
